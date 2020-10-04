@@ -11,26 +11,22 @@ class Home extends Component {
     render() {
         return ( <
             div > { /* <Feeds></Feeds> */ } <
-            Upload > < /Upload> <
-            div className = 'Login' > { /*should take you to the login page*/ } <
-            button onClick = {} > < /button> <
-            /div> <
-            div className = 'Economics' >
-            <
-            button onCLick = {} > < /button> <
+            Upload > < /Upload> 
+            <div className = 'Login' > { /*should take you to the login page*/ } 
+                {/* <button onClick = {} > < /button> */}
+                </div>
+            <div className = 'Economics' >
+                {/*<button onCLick = {} > < /button>*/} <
             /div> <
             div className = 'Law' >
-            <
-            button onCLick = {} > < /button> <
-            /div> <
+                {/*<button onCLick = {} > </button>*/}
+            </div> <
             div className = 'Engineering' >
-            <
-            button onCLick = {} > < /button> <
-            /div> <
+                {/*<button onCLick = {} > < /button>*/}
+            </div> <
             div className = 'More' >
-            <
-            button onCLick = {} > < /button> <
-            /div> <
+                {/*<button onCLick = {} > < /button>*/} 
+                </div> <
             div className = 'Rectangle-5' > < /div> <
             div className = 'Rectangle-4' > < /div> <
             div className = 'Rectangle-1' > < /div> <
