@@ -1,0 +1,77 @@
+/*css login page*/
+
+.Rectangle-5 {
+width: 1920px;
+height: 250px;
+border: solid 1px #707070;
+background-color: #57595f;
+}
+.Education {
+width: 152px;
+height: 35px;
+font-family: CorsivaHebrew;
+font-size: 30px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.13;
+letter-spacing: normal;
+text-align: left;
+color: #f8ef19;
+}
+.Rectangle-1 {
+width: 35px;
+height: 10px;
+border-radius: 39px;
+border: solid 1px #707070;
+background-color: #f8ef19;
+}
+.Rectangle-4 {
+width: 9px;
+height: 33px;
+border-radius: 39px;
+border: solid 1px #707070;
+background-color: #f9fafc;
+}
+
+
+.Rectangle-21 {
+width: 185px;
+height: 98px;
+border-radius: 49px;
+border: solid 1px #707070;
+background-color: #57595f;
+}
+.LogIn {
+width: 86px;
+height: 82px;
+font-family: CorsivaHebrew;
+font-size: 30px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.13;
+letter-spacing: normal;
+text-align: left;
+color: #f8ef19;
+}
+.Rectangle-22 {
+width: 185px;
+height: 98px;
+border-radius: 49px;
+border: solid 1px #707070;
+background-color: #57595f;
+}
+.signUp {
+width: 108px;
+height: 35px;
+font-family: CorsivaHebrew;
+font-size: 30px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.13;
+letter-spacing: normal;
+text-align: left;
+color: #f8ef19;
+}
