@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import fire from '../config/firebase';
+import Feeds from './Feeds';
+import Upload from './Upload';
 
 class Home extends Component {
     logout() {
@@ -8,8 +10,10 @@ class Home extends Component {
     
       render() {
         return (
-          <div style={{textAlign: 'center'}}>
-            <h1>You Are Logged In</h1>
+          <div>
+            {/* <Feeds></Feeds> */}
+            <Upload></Upload>
+
             <button onClick = {this.logout}>Logout</button>
           </div>
         )
