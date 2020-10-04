@@ -38,6 +38,8 @@
 }
 
 /*homepage*/
+
+/* header*/
 .Rectangle-5 {
     width: 1920px;
     height: 250px;
@@ -89,6 +91,9 @@
     text-align: left;
     color: #f8ef19;
   }
+
+
+  /*body*/
   .e5dd1099f6d3ed362ac6dbfeb7a5 {
     width: 1920px;
     height: 590px;
@@ -100,6 +105,25 @@
     border: solid 1px #707070;
     background-color: #838a8e;
   }
+  .Education-is-for-everyone-Watch-the-great-minds-of-today-teach-and-choose-your-own-professors {
+    width: 564px;
+    height: 296px;
+    font-family: CorsivaHebrew;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fffffd;
+  }
+
+  .Education-is-for-everyone-Watch-the-great-minds-of-today-teach-and-choose-your-own-professors .text-style-1 {
+    color: #f7ee18;
+  }
+
+  /* bottom*/
   .Economics {
     width: 113px;
     height: 26px;
@@ -175,23 +199,6 @@
     height: 63px;
     border: solid 1px #57595f;
     background-color: #ffffff;
-  }
-  .Education-is-for-everyone-Watch-the-great-minds-of-today-teach-and-choose-your-own-professors {
-    width: 564px;
-    height: 296px;
-    font-family: CorsivaHebrew;
-    font-size: 30px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.13;
-    letter-spacing: normal;
-    text-align: left;
-    color: #fffffd;
-  }
-
-  .Education-is-for-everyone-Watch-the-great-minds-of-today-teach-and-choose-your-own-professors .text-style-1 {
-    color: #f7ee18;
   }
   .Democratize-Education-Rate-your-lectures-delve-into-the-world-of-education-rate-your-professors-and-choose-yourself-who-you-want-to-listen-to {
     width: 773px;
